@@ -1,0 +1,24 @@
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+altair
+pydeck
+scikit-learn
+scipy
+xgboost
+joblib
+openpyxl
+reportlab
+fpdf
+tqdm
+pycountry
+yagmail
+premailer
+requests
+streamlit-option-menu
+statsmodels
+# Core dependencies
+plotly==5.18.0  # Compatible with Kaleido 0.2.1
+kaleido==0.2.1  # ⚠️ CRITICAL: Last version that works on Streamlit Cloud
