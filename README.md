@@ -99,3 +99,70 @@ Support planning, marketing, and inventory management decisions.
 Build interactive dashboards using Dash and Streamlit.
 
 Generate automated reports for business stakeholders, enabling clear, decision-ready insights.
+
+## 💡 How to Use the Project
+
+
+- Download the .db file from the provided link.
+
+- Launch the Web Application
+
+- Open the web application locally or on your server.
+
+- Upload the Database
+
+- Navigate to the “Upload Database” section.
+
+- Upload the downloaded Ecommerce.db file.
+
+**_Disclaimer_** - There is no need to place the database in the project directory. The web application handles all database interactions via the upload interface.
+
+- Explore Dashboards and Reports
+
+- The dashboards, analytics, models, and reports load automatically.
+
+- Interact with visualizations, business intelligence dashboards, and automated reports to explore insights.
+
+## Project Insights
+
+- Following data preparation, comprehensive analysis and visualizations were performed to answer key business questions:
+
+- Customer Behavior: Retention trends, churn patterns, and high-risk segments
+
+- Regional & Operational Performance: Regional sales, fulfillment efficiency, and payment failures
+
+- Financial Performance: Product profitability, revenue concentration, and long-term financial trends
+
+## Key findings include:
+
+- A “leaky bucket” retention pattern, showing customers leaving over time
+
+- Declining sales and profit trends
+
+- Operational bottlenecks in delivery and payment processes
+
+- Revenue heavily concentrated among a small group of high-value customers
+
+### Predictive Models
+
+To move beyond descriptive analytics, the project includes predictive models:
+
+- Customer Churn Model
+
+- Uses RFM features (recency, frequency, monetary value)
+
+- Identifies high-risk customers early for targeted re-engagement
+
+- Customer Lifetime Value (LTV) Model
+
+- Highlights future revenue contribution from high-value customers
+
+- Supports smarter prioritization and resource allocation
+
+### Reporting & Deployment
+
+- Automated reporting generates stakeholder-ready PDF reports
+
+- A web application allows users to interact with dashboards, models, and insights in real-time
+
+
