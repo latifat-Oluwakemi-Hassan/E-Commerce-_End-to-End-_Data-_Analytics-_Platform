@@ -1,9 +1,10 @@
 # 📌 Project Title
 ## E-commerce-End-to-End Data Analytics Platform
+
 ## 📖 Project Description
 This project analyzes historical e-commerce data to provide actionable insights on customer behavior, sales trends, and revenue performance. It identifies patterns in customer churn, regional sales distribution, purchasing habits, and periods of growth or decline. Additionally, predictive analysis forecasts future sales and customer trends to inform strategic business decisions.
 
-The goal is to turn raw, fragmented data into clear, decision-ready insights that businesses can use to improve service delivery, enhance customer experience, increase retention, and drive sustainable growth.
+The goal is to turn raw data into clear, decision-ready insights that businesses can use to improve service delivery, enhance customer experience, increase retention, and drive sustainable growth.
 ## Motivation & Problem Statement
 
 Many e-commerce businesses have plenty of data but struggle to use it effectively due to:
@@ -165,4 +166,15 @@ To move beyond descriptive analytics, the project includes predictive models:
 
 - A web application allows users to interact with dashboards, models, and insights in real-time
 
+
+## Acknowledgements
+
+This project would not have been possible without the collaboration and dedication of my teammates. Their contributions and support were key to the success of this work.
+
+
+## Future Improvements
+
+- Expand the dataset by incorporating additional publicly available e-commerce data (e.g., from major marketplaces) to enable deeper comparative and trend analysis.
+- Enhance predictive models using richer behavioral and product-level features.
+- Integrate real-time data sources to support live analytics and monitoring.
 
