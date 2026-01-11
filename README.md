@@ -55,6 +55,7 @@ The project follows a structured workflow to turn raw e-commerce data into actio
 1. Data Collection & Cleaning
    
 The project uses messy raw e-commerce datasets generated from multiple sources, including:
+[Download raw_data](https://drive.google.com/drive/folders/1cshn-AgXKyteydWAtBkSjXT4FixbDwEU?usp=sharing)
 
 Customers: 50,500 rows × 24 columns
 
